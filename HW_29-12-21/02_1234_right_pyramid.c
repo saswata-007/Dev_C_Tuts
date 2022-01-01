@@ -1,6 +1,12 @@
 #include<stdio.h>
 int main()
 {
+    /*
+        1
+       23
+      456       // n=4
+     78910    
+    */
     int n,i,j,x=0;
     printf("Enter the number of rows: ");
     scanf("%d",&n);

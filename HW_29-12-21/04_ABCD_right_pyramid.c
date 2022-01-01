@@ -1,6 +1,12 @@
 #include<stdio.h>
 int main()
 {
+    /*
+        A
+        AB
+        ABC         //n=4
+        ABCD
+    */
     int n,i,j;
     char ch='A';
     printf("Enter the number of rows: ");

@@ -1,6 +1,13 @@
 #include<stdio.h>
 int main()
 {
+	/*
+			1
+		   232
+		  34543			//n=5
+		 4567654
+		567898765	
+	*/
 	int n,i,j,k,a,b;
 	printf("Enter total row no: ");
 	scanf("%d",&n);

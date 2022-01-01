@@ -2,11 +2,10 @@
 int main()
 {
 	/*
-		12345
-		1234
-		123			//n=5
-		12
-		1
+		* * * *
+        * * *
+        * *         //n=4
+        *
 	*/
 	int n,i,j,x=1;
 	printf("Enter total row no: ");
@@ -15,10 +14,8 @@ int main()
 	{
 		for(j=1;j<=i;j++)
 		{
-			printf("%d",x);
-			x++;
+			printf("* ");
 		}
-		x=1;
 		printf("\n");
 	}
 	return 0;

@@ -1,6 +1,12 @@
 #include<stdio.h>
 int main()
 {
+    /*
+        1
+       32           //n=4
+      654
+    10987  
+    */
     //ERROR
     int n,i,j,x=1,y;
     printf("Enter the number of rows: ");

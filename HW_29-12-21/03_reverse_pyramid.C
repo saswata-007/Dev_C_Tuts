@@ -1,6 +1,11 @@
 #include<stdio.h>
 int main()
 {
+    /*
+     * * * * *
+       * * *        //n=3
+         *
+    */
     //INFINITE LOOP PROBLEM
     int n,i,j,k;
     printf("Enter the number of rows:");
